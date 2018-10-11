@@ -7,4 +7,4 @@ Whenever a user submits a burger's name, the app will display the burger on the 
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 The app will store every burger in a database, whether devoured or not.
  ### To Run App
-Follow the heroku link: future_deployed_app@heroku.com
+Follow the heroku link: https://young-scrubland-84445.herokuapp.com/
